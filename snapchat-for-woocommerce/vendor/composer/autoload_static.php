@@ -7,22 +7,22 @@ namespace Composer\Autoload;
 class ComposerStaticInite025b126964eddaf0b362116364863c2
 {
     public static $prefixLengthsPsr4 = array (
-        'S' => 
+        'S' =>
         array (
             'SnapchatForWooCommerce\\' => 23,
         ),
-        'A' => 
+        'A' =>
         array (
             'Automattic\\Jetpack\\Autoloader\\' => 30,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'SnapchatForWooCommerce\\' => 
+        'SnapchatForWooCommerce\\' =>
         array (
             0 => __DIR__ . '/../..' . '/includes',
         ),
-        'Automattic\\Jetpack\\Autoloader\\' => 
+        'Automattic\\Jetpack\\Autoloader\\' =>
         array (
             0 => __DIR__ . '/..' . '/automattic/jetpack-autoloader/src',
         ),
