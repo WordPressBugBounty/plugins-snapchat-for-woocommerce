@@ -7,7 +7,7 @@ $baseDir   = dirname($vendorDir);
 
 return array(
 	'SnapchatForWooCommerce\\' => array(
-		'version' => 'dev-release/1.0.4',
+		'version' => 'dev-release/1.0.5',
 		'path'    => array( $baseDir . '/includes' )
 	),
 	'Automattic\\Jetpack\\Autoloader\\' => array(
