@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'woocommerce/snapchat-for-woocommerce',
-        'pretty_version' => 'dev-release/1.0.8',
-        'version' => 'dev-release/1.0.8',
-        'reference' => '9ed0e07d884c9f9c30891b26376157eb349318b8',
+        'pretty_version' => 'dev-release/1.0.9',
+        'version' => 'dev-release/1.0.9',
+        'reference' => '4809ac72444bd7586c7cf1ee0ef0b5b6af0f0d05',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'woocommerce/snapchat-for-woocommerce' => array(
-            'pretty_version' => 'dev-release/1.0.8',
-            'version' => 'dev-release/1.0.8',
-            'reference' => '9ed0e07d884c9f9c30891b26376157eb349318b8',
+            'pretty_version' => 'dev-release/1.0.9',
+            'version' => 'dev-release/1.0.9',
+            'reference' => '4809ac72444bd7586c7cf1ee0ef0b5b6af0f0d05',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
